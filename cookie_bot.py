@@ -108,6 +108,7 @@ while True:
                 link = browser.find_element_by_id("product0")
                 link.click()
                 del link
+                del maks
         except:
             pass
         try:
@@ -115,6 +116,7 @@ while True:
                 link = browser.find_element_by_id("product1")
                 link.click()
                 del link
+                del maks
         except:
             pass
         try:
@@ -122,6 +124,7 @@ while True:
                 link = browser.find_element_by_id("product2")
                 link.click()
                 del link
+                del maks
         except:
             pass
         try:
@@ -129,6 +132,7 @@ while True:
                 link = browser.find_element_by_id("product3")
                 link.click()
                 del link
+                del maks
         except:
             pass
         try:
@@ -136,6 +140,7 @@ while True:
                 link = browser.find_element_by_id("product4")
                 link.click()
                 del link
+                del maks
         except:
             pass
         try:
@@ -143,6 +148,7 @@ while True:
                 link = browser.find_element_by_id("product5")
                 link.click()
                 del link
+                del maks
         except:
             pass
         try:
@@ -150,6 +156,7 @@ while True:
                 link = browser.find_element_by_id("product6")
                 link.click()
                 del link
+                del maks
         except:
             pass
         try:
@@ -157,6 +164,7 @@ while True:
                 link = browser.find_element_by_id("product7")
                 link.click()
                 del link
+                del maks
         except:
             pass
         try:
@@ -164,6 +172,7 @@ while True:
                 link = browser.find_element_by_id("product8")
                 link.click()
                 del link
+                del maks
         except:
             pass
 
